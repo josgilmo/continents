@@ -1,0 +1,13 @@
+{
+    "name": "josgilmo/continents",
+    "description": "List of continents with tranlated names and relatioship with the countries",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "josgilmo",
+            "email": "josgilmo@gmail.com"
+        }
+    ],
+    "require": {}
+}
