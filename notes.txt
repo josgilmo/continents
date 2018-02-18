@@ -1,1 +1,0 @@
-https://dev.maxmind.com/geoip/legacy/codes/country_continent/
