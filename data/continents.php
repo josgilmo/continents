@@ -1,5 +1,11 @@
 <?php
 
+// quiero: a
+/*
+['EU' => ['AD', 'AL']....,
+ 'AS' => 
+*/
+
 return [
     ['country' => 'A1', 'continent' => '--'],
     ['country' => 'A2', 'continent' => '--'],

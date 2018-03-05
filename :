@@ -1,9 +1,0 @@
-<?php
-
-$fichero = new SplFileObject("data/continents.csv");
-while (!$fichero->eof()) {
-    $c = $fichero->fgetcsv();
-    $node =[ 'continent' => $c[0],'country' => $c[1]];
-
-print_r($node);
-}
